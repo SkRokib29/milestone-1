@@ -1,0 +1,124 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    font-size: 15px;
+}
+p{
+    color: dimgrey;
+}
+.text-highlighter{
+    color: rgb(255, 120, 96);
+}
+section{
+    height: 420px;
+    padding-bottom: 190px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 45px;
+    margin-right: 5px;
+    padding-bottom: 60px;
+    padding-top: 40px;
+}
+.half-width img{
+    width: 100%;
+}
+.one-third-width{
+    
+    width: 15%;
+    float: left;
+    
+    margin: 10px 60px 10px 100px;
+    padding: 5px;
+
+}
+.working-area{
+    background-color: rgb(234, 240, 240);
+    width: 100%;
+    
+}
+.working-area h2{
+    text-align: center;
+    width: 960px;
+    margin: 10px 70px;
+    
+}
+.one-third-width img{
+    width: 100%;
+    
+    
+}
+.box-shadow{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    margin: 1pxpx 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+ul li{
+    list-style: none;
+    display:inline-block;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    
+    
+    margin: 5px 5px 5px 15px;
+}
+.chat-box{
+    background-image: url("images/Group_33094_1.png");
+    height: 100%;
+    width: 960px;
+    position: static;
+    
+    
+    padding: 15px 30px 15px 30px;
+}
+.last-section{
+    height: 100px;
+    margin-inline: 100px;
+    margin-top: 100px;
+    
+
+}
+
+#gap-create{
+    margin-left: 660px;
+    
+}
+.inquiry-text{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+
+footer p{
+    text-align: center;
+}
+
+
+
+
